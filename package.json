@@ -1,0 +1,21 @@
+{
+  "name": "task-3-oasis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {
+    "vite": "^4.3.1"
+  }
+}
